@@ -74,4 +74,4 @@ per vederre se è questo modificato c'è tutto uno step: sulla pagina di360dev n
 
 questa è la parte per prenotare gli slot per i rilasci.
  */
-export default header;
+export default header;adf
